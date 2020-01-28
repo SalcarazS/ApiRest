@@ -1,0 +1,14 @@
+C:\Users\SALCARAZ\source\repos\Api\CNegocio\bin\Debug\CNegocio.dll.config
+C:\Users\SALCARAZ\source\repos\Api\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\SALCARAZ\source\repos\Api\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\SALCARAZ\source\repos\Api\CNegocio\bin\Debug\Data.dll
+C:\Users\SALCARAZ\source\repos\Api\CNegocio\bin\Debug\EntityFramework.dll
+C:\Users\SALCARAZ\source\repos\Api\CNegocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SALCARAZ\source\repos\Api\CNegocio\bin\Debug\Data.pdb
+C:\Users\SALCARAZ\source\repos\Api\CNegocio\bin\Debug\Data.dll.config
+C:\Users\SALCARAZ\source\repos\Api\CNegocio\bin\Debug\EntityFramework.xml
+C:\Users\SALCARAZ\source\repos\Api\CNegocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SALCARAZ\source\repos\Api\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\SALCARAZ\source\repos\Api\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\SALCARAZ\source\repos\Api\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\SALCARAZ\source\repos\Api\CNegocio\obj\Debug\CNegocio.pdb

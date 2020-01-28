@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "Api\Api.csproj", "{EBBF85F4-E2B2-4431-B35E-474A14AA440B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CapaApi", "CapaApi", "{0C37A516-48A7-4FD3-804F-9A4FC8B7DC13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{8C97BB86-0A23-40D2-B1C7-0A9D11840813}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CapaData", "CapaData", "{CECADE08-7F2A-4117-91E4-2437F82976BF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CapaNegocio", "CapaNegocio", "{155736F4-1787-4792-8358-1377F6237146}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CNegocio", "CNegocio\CNegocio.csproj", "{33F2DB37-EF87-4AC9-B6B5-3078F47442C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBBF85F4-E2B2-4431-B35E-474A14AA440B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBBF85F4-E2B2-4431-B35E-474A14AA440B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBBF85F4-E2B2-4431-B35E-474A14AA440B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBBF85F4-E2B2-4431-B35E-474A14AA440B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C97BB86-0A23-40D2-B1C7-0A9D11840813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C97BB86-0A23-40D2-B1C7-0A9D11840813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C97BB86-0A23-40D2-B1C7-0A9D11840813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C97BB86-0A23-40D2-B1C7-0A9D11840813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33F2DB37-EF87-4AC9-B6B5-3078F47442C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F2DB37-EF87-4AC9-B6B5-3078F47442C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F2DB37-EF87-4AC9-B6B5-3078F47442C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F2DB37-EF87-4AC9-B6B5-3078F47442C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EBBF85F4-E2B2-4431-B35E-474A14AA440B} = {0C37A516-48A7-4FD3-804F-9A4FC8B7DC13}
+		{8C97BB86-0A23-40D2-B1C7-0A9D11840813} = {CECADE08-7F2A-4117-91E4-2437F82976BF}
+		{33F2DB37-EF87-4AC9-B6B5-3078F47442C8} = {155736F4-1787-4792-8358-1377F6237146}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8258EE9-B1C1-4F97-B633-B8105AB0262D}
+	EndGlobalSection
+EndGlobal
